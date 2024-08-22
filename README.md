@@ -12,6 +12,6 @@ This application provides a user-friendly interface that allows users to seamles
 - CSS3: Providing a modern and responsive design.
 - JavaScript: Enabling real-time translation functionality and interactivity.
 # Future Enhancements:
--Voice Translation: Convert spoken language into translated text.
--Language Detection: Automatically detect the source language for translation.
--Enhanced Language Support: Expanding the range of supported languages.
+- Voice Translation: Convert spoken language into translated text.
+- Language Detection: Automatically detect the source language for translation.
+- Enhanced Language Support: Expanding the range of supported languages.
