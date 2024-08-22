@@ -1,4 +1,4 @@
-A modern web-based Language Translator application built with HTML, CSS, and JavaScript.
+###A modern web-based Language Translator application built with HTML, CSS, and JavaScript.
 
 This application provides a user-friendly interface that allows users to seamlessly translate text across multiple languages, offering functionality similar to Google Translate. Designed to be simple yet powerful, the app enables quick and accurate language translations.
 
