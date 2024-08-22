@@ -6,12 +6,11 @@ This application provides a user-friendly interface that allows users to seamles
 - Multiple Language Support: Translate text into various languages with ease.
 - Real-time Translation: Instant translation of text as you type.
 - User-Friendly Interface: Intuitive design for a smooth user experience.
-- Responsive Design: Optimized for both desktop and mobile platforms.
+- Responsive Design: Optimized for desktop.
 # Technologies Used:
 - HTML5: Structuring the content and layout of the application.
 - CSS3: Providing a modern and responsive design.
-- JavaScript: Enabling real-time translation functionality and interactivity.
+- JavaScript: Enabling real-time translation functionality and interactivity over an # API.
 # Future Enhancements:
-- Voice Translation: Convert spoken language into translated text.
 - Language Detection: Automatically detect the source language for translation.
 - Enhanced Language Support: Expanding the range of supported languages.
