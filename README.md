@@ -3,7 +3,7 @@
 This application provides a user-friendly interface that allows users to seamlessly translate text across multiple languages, offering functionality similar to Google Translate. Designed to be simple yet powerful, the app enables quick and accurate language translations.
 
 Key Features:
-  - Multiple Language Support: Translate text into various languages with ease.
+- Multiple Language Support: Translate text into various languages with ease.
   - Real-time Translation: Instant translation of text as you type.
   - User-Friendly Interface: Intuitive design for a smooth user experience.
   - Responsive Design: Optimized for both desktop and mobile platforms.
