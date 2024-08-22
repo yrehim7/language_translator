@@ -10,7 +10,7 @@ This application provides a user-friendly interface that allows users to seamles
 # Technologies Used:
 - HTML5: Structuring the content and layout of the application.
 - CSS3: Providing a modern and responsive design.
-- JavaScript: Enabling real-time translation functionality and interactivity over an # API.
+- JavaScript: Enabling real-time translation functionality and interactivity and using Translation-API.
 # Future Enhancements:
 - Language Detection: Automatically detect the source language for translation.
 - Enhanced Language Support: Expanding the range of supported languages.
