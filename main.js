@@ -7,10 +7,6 @@ let cpyBtn = document.querySelector('.bx-copy');
 let countValue = document.querySelector('.code_length');
 let exchangLang = document.querySelector('.bx-transfer');
 
-
-
-
-
 langOption.forEach((get, con) =>{
     for(let countryCode in language){
 
@@ -27,7 +23,6 @@ langOption.forEach((get, con) =>{
 })
 
 // API function //
-
 fromText.addEventListener('input', function() {
     let content = fromText.value;
     fromContent = langOption[0].value;
