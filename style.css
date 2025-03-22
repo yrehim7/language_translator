@@ -8,7 +8,7 @@
 
 /* */
 header {
-    background-color: #333;
+    background-color: #9a9999;
     color: #fff;
     padding: 10px 0;
 }
@@ -38,14 +38,14 @@ header {
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 60px;
 }
 
 .user-login {
-    background-color: #007BFF;
+    background-color: #51a2f8;
     color: #fff;
-    padding: px;
-    border-radius: 50%; /* Dieser Wert erstellt einen Kreis */
+    padding: 30px 12px; /* Adjust padding to increase background size */
+    border-radius: 10%; /* This value creates a circle */
 }
 
 .user-login a {
